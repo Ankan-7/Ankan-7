@@ -11,7 +11,7 @@ I focus on building practical ML-based applications and understanding how they p
 
 ## Projects
 
-**Sign Language Translator**
+**[Sign Language Translator](https://github.com/Ankan-7/AI-Interview-Evaluator)**
 A machine learning-based system that translates hand gestures into text using real-time input.
 
 **AI Interview Evaluator**
