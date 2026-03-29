@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Ankan
 
-<!--
-**Ankan-7/Ankan-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a final-year CSE student specializing in Artificial Intelligence and Machine Learning.
+I focus on building practical ML-based applications and understanding how they perform in real-world scenarios.
 
-Here are some ideas to get you started:
+## What I'm doing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Developing machine learning projects across different domains (vision, NLP, and applied systems)
+* Working on improving model performance and usability
+* Preparing for entry-level roles in AI/ML
+
+## Projects
+
+**Sign Language Translator**
+A machine learning-based system that translates hand gestures into text using real-time input.
+
+**AI Interview Evaluator**
+An NLP-based system designed to analyze and evaluate candidate responses.
+
+## Tech Stack
+
+Python, C++, Scikit-learn, TensorFlow, OpenCV, Git
+
+## Currently Learning
+
+* Model optimization techniques
+* Practical deployment basics for ML systems
+
+## Contact
+
+LinkedIn: (add your link)
