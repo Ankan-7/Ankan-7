@@ -19,7 +19,7 @@ An NLP-based system designed to analyze and evaluate candidate responses.
 
 ## Tech Stack
 
-Python, C++, Scikit-learn, TensorFlow, OpenCV, Git
+Python, Scikit-learn, TensorFlow, OpenCV, Git
 
 ## Currently Learning
 
