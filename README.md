@@ -28,4 +28,4 @@ Python, Scikit-learn, TensorFlow, OpenCV, Git
 
 ## Contact
 
-LinkedIn: (add your link)
+LinkedIn: linkedin.com/in/ankan-kundu   
