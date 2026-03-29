@@ -28,7 +28,7 @@ Python, Scikit-learn, TensorFlow, OpenCV, Git
 
 ## Contact
 
-LinkedIn: linkedin.com/in/ankan-kundu
+LinkedIn: [Ankan Kundu](linkedin.com/in/ankan-kundu)
 
 ## Resume
 https://github.com/Ankan-7/resume/blob/main/Ankan%20Kundu%20Resume.pdf
