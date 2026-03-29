@@ -21,7 +21,7 @@ An NLP-based system designed to analyze and evaluate candidate responses.
 
 ## Tech Stack
 
-Python, Scikit-learn, Flask, REST API, OpenCV, MediaPipe, Git & GitHub
+Python | Scikit-learn, Flask, REST API, OpenCV, MediaPipe, Git & GitHub
 
 ## Currently Learning
 
